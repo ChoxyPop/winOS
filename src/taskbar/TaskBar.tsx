@@ -22,10 +22,12 @@ const StyledTaskBar = styled.div<TaskBarProps>`
 
   background: linear-gradient(
     to bottom,
-    #3168d5 0%,
-    #4993e6 7% 10%,
-    #235cdb 24% 87%,
-    #1941a5 98%
+  rgb(40, 45, 55) 0%,
+  rgb(60, 70, 85) 7%,
+  rgb(60, 70, 85) 10%,
+  rgb(35, 40, 50) 24%,
+  rgb(35, 40, 50) 87%,
+  rgb(20, 25, 30) 98%
   );
 
   > * {
