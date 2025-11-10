@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "567ad84695b10ff7d79a43d2eaaf0240",
+    "revision": "0ea2fae14a913bf800da4fa07aa85bd9",
     "url": "/winOS/build/index.html"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/winOS/build/static/js/2.e50317d3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e731a7b92a73d614d8d6",
-    "url": "/winOS/build/static/js/5.57020e93.chunk.js"
+    "revision": "d63436cfca0b6ee138c4",
+    "url": "/winOS/build/static/js/5.8b2499b5.chunk.js"
   },
   {
     "revision": "2aa5eacb622ea03e5eb4",
@@ -80,8 +80,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/winOS/build/static/js/main.084c689c.chunk.js"
   },
   {
-    "revision": "6a88e1652b111bf78668",
-    "url": "/winOS/build/static/js/runtime-main.3107bddf.js"
+    "revision": "9860834053e0d2ea0318",
+    "url": "/winOS/build/static/js/runtime-main.ae7d278e.js"
   },
   {
     "revision": "7a7bbcc4474f166e6ca43e4707880ba3",

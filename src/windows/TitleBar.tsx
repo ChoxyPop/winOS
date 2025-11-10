@@ -43,24 +43,29 @@ const StyledTitleBar = styled.div`
   &::before {
     ${mixins.background}
 
-    background: radial-gradient(ellipse at 90% 25%, #0032c1 10%, #0050da 50%, #207dff 80%);
-    border: 1px solid #001abc77;
-    border-right-color: #000e7ddd;
+    background: radial-gradient(
+      ellipse at 90% 25%,
+      #2b303d 10%,
+      #3d4454 50%,
+      #596173 80%
+    );
+    border: 1px solid #1a1e2877;
+    border-right-color: #0f121add;
     border-top-left-radius: 7px;
     border-top-right-radius: 7px;
     /* prettier-ignore */
     box-shadow: 
-      inset 5px 0px 5px -3px #001abc,
-      inset -5px 0px 5px -3px #001abc,
-      inset 5px 10px 3px -8px #3295ff,
-      inset 0px -20px 2px -19px #001abc77;
+      inset 5px 0px 5px -3px #1a1e28,
+      inset -5px 0px 5px -3px #1a1e28,
+      inset 5px 10px 3px -8px #6f7a8f,
+      inset 0px -20px 2px -19px #1a1e2877;
 
     .inactive & {
-      filter: contrast(0.65) hue-rotate(5deg) saturate(50%) brightness(150%);
+      filter: contrast(0.65) hue-rotate(5deg) saturate(50%) brightness(130%);
       background: radial-gradient(
         ellipse at 90% 25%,
-        #0050da 50%,
-        #207dff 100%
+        #3d4454 50%,
+        #596173 100%
       );
     }
   }
