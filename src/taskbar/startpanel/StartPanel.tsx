@@ -45,7 +45,7 @@ const StyledStartPanel = styled.section`
     filter: drop-shadow(2px 2px 1px rgb(0, 0, 0, 0.4));
 
     border-style: solid;
-    border-color: #3e74cd #1854c2;
+    border-color: #5a616f #343b45;
     border-width: 1px 1px 0;
     border-radius: 7px 7px 0 0;
     overflow: hidden;
@@ -58,7 +58,7 @@ const StyledStartPanel = styled.section`
     right: 0;
     top: 0;
     bottom: 0;
-    box-shadow: inset -20px 0px 4px -19px #1854c2;
+    box-shadow: inset -20px 0px 4px -19px #343b45;
     pointer-events: none;
   }
 `;

@@ -30,26 +30,27 @@ export const ExpandToggle = styled((props: ExpandToggleProps) => (
   text-align: center;
 
   border-radius: 100%;
-  border: 1px solid #111f5a;
-  border-color: #263368 #c2c6d5 #878eac #111f5a;
+  border: 1px solid #1a1e28;
+  border-color: #2c3240 #a4a9b6 #717683 #1a1e28;
 
-  background-color: #90d7f9;
+  background-color: #6f7a88;
   /* prettier-ignore */
   box-shadow:
-    inset -4px -4px 6px #0671EB,
-    inset -9px -9px 6px #0C94F0;
+  inset -4px -4px 6px #2c3442,
+  inset -9px -9px 6px #3a4352;
 
   &:hover {
-    background-color: #c4e6f9;
-    box-shadow: inset -10px -10px 8px -7px #0d98e8;
+    background-color: #8b95a3;
+    box-shadow: inset -10px -10px 8px -7px #444d5b;
   }
 
   &:active {
-    background-color: #86caec;
+    background-color: #5f6a77;
     /* prettier-ignore */
     box-shadow:
-        inset -4px -4px 6px #0047BE,
-        inset -9px -9px 6px -2px #008FD8;
+      inset -4px -4px 6px #232a35,
+      inset -9px -9px 6px -2px #3b4655;
+  }
 
     img {
       opacity: 0.5;

@@ -9,17 +9,18 @@ const StyledNotificationTray = styled(TaskBarItem)`
   align-items: center;
   height: 100%;
 
-  border: 1px solid #095bc9;
-  border-left-color: #092e51;
+  border: 1px solid #3b4350;
+  border-left-color: #1c2128;
   border-right: none;
 
   /* prettier-ignore */
-  box-shadow: 
-    inset 2px 0px 2px 0px #22c4f4,
-    inset 0px 3px 2px -1px #19b9f3,
-    inset 0px -4px 14px 0px #22c4f4;
+  box-shadow:
+  inset 2px 0px 2px 0px #6b7685,
+  inset 0px 3px 2px -1px #5d6878,
+  inset 0px -4px 14px 0px #6b7685;
 
-  background: #0d8dea;
+  background: #444c59;
+
 
   .icon {
     width: 16px;
