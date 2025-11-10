@@ -190,7 +190,7 @@ const StyledButton = styled.button.attrs({
         opacity: 0.7;
       }
     }
-  }
+  } 
 
   &.danger {
     /* prettier-ignore */
