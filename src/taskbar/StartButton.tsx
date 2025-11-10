@@ -76,5 +76,5 @@ export const StartButton: FC<ButtonProps> = ({ label, active, ...rest }) => (
 );
 
 StartButton.defaultProps = {
-  label: 'start',
+  label: '. start',
 };
