@@ -36,7 +36,17 @@ export const MediaPlayerWindow: FC<MediaPlayerWindowProps> = ({ path }) => {
           src={src}
           controls
           autoPlay
-          style={{flexGrow: 1,width: 'auto',height: '100%',background: 'black',display: 'block',margin: '0 auto',objectFit: 'contain'}}
+          style={{
+  flexGrow: 1,
+  maxWidth: '100%',
+  maxHeight: '100%',
+  width: 'auto',
+  height: 'auto',
+  background: 'black',
+  display: 'block',
+  margin: 'auto',
+  objectFit: 'contain'
+}}
 
         />
       ) : (
