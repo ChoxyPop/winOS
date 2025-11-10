@@ -22,6 +22,10 @@ async function loadProgramManager(): Promise<ProgramManager> {
     manager.install(
       async () => (await import('./apps/pictureviewer')).PictureViewerApp
     ),
+
+    manager.install(
+      async () => (await import('./apps/mediaplayer')).MediaPlayerApp
+    ),
   ]);
 
   return manager;
