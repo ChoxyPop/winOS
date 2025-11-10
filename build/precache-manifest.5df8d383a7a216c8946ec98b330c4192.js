@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a1573d0312a8eba4319375f0bff03a3f",
+    "revision": "c40833f5dddf2d46dd22a9e1779e6e1d",
     "url": "/winOS/build/index.html"
   },
   {
-    "revision": "b9f1a851166356d39354",
+    "revision": "c60a4f68c8b2b12b95f9",
     "url": "/winOS/build/static/css/main.950adebf.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/winOS/build/static/js/2.57d9fc4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d2ebb895b2a26e35068",
-    "url": "/winOS/build/static/js/5.051dec4e.chunk.js"
+    "revision": "e46bca3e628103ff873b",
+    "url": "/winOS/build/static/js/5.94f7975e.chunk.js"
   },
   {
     "revision": "066047f85bb0735d56fd",
@@ -72,20 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/winOS/build/static/js/9.c4443709.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b9f1a851166356d39354",
-    "url": "/winOS/build/static/js/main.fa271c51.chunk.js"
+    "revision": "c60a4f68c8b2b12b95f9",
+    "url": "/winOS/build/static/js/main.96a9f808.chunk.js"
   },
   {
-    "revision": "7e7e3969a8104f8e4048",
-    "url": "/winOS/build/static/js/runtime-main.c2b2b449.js"
+    "revision": "2a99bf196e65467af1d1",
+    "url": "/winOS/build/static/js/runtime-main.6a78c5f9.js"
   },
   {
     "revision": "7a7bbcc4474f166e6ca43e4707880ba3",
     "url": "/winOS/build/static/media/bliss.7a7bbcc4.jpg"
-  },
-  {
-    "revision": "5eb0d40d417425bb2dfa2ed6a7b7ab0b",
-    "url": "/winOS/build/static/media/profile.5eb0d40d.png"
   },
   {
     "revision": "6ea05914e55d941699f46ae5cac6f3a3",

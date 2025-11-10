@@ -7,12 +7,12 @@
     "static/js/2.57d9fc4b.chunk.js": "/winOS/build/static/js/2.57d9fc4b.chunk.js",
     "static/js/2.57d9fc4b.chunk.js.map": "/winOS/build/static/js/2.57d9fc4b.chunk.js.map",
     "main.css": "/winOS/build/static/css/main.950adebf.chunk.css",
-    "main.js": "/winOS/build/static/js/main.fa271c51.chunk.js",
-    "main.js.map": "/winOS/build/static/js/main.fa271c51.chunk.js.map",
-    "runtime-main.js": "/winOS/build/static/js/runtime-main.c2b2b449.js",
-    "runtime-main.js.map": "/winOS/build/static/js/runtime-main.c2b2b449.js.map",
-    "static/js/5.051dec4e.chunk.js": "/winOS/build/static/js/5.051dec4e.chunk.js",
-    "static/js/5.051dec4e.chunk.js.map": "/winOS/build/static/js/5.051dec4e.chunk.js.map",
+    "main.js": "/winOS/build/static/js/main.96a9f808.chunk.js",
+    "main.js.map": "/winOS/build/static/js/main.96a9f808.chunk.js.map",
+    "runtime-main.js": "/winOS/build/static/js/runtime-main.6a78c5f9.js",
+    "runtime-main.js.map": "/winOS/build/static/js/runtime-main.6a78c5f9.js.map",
+    "static/js/5.94f7975e.chunk.js": "/winOS/build/static/js/5.94f7975e.chunk.js",
+    "static/js/5.94f7975e.chunk.js.map": "/winOS/build/static/js/5.94f7975e.chunk.js.map",
     "static/js/6.aaad1b06.chunk.js": "/winOS/build/static/js/6.aaad1b06.chunk.js",
     "static/js/6.aaad1b06.chunk.js.map": "/winOS/build/static/js/6.aaad1b06.chunk.js.map",
     "static/js/7.55d34aee.chunk.js": "/winOS/build/static/js/7.55d34aee.chunk.js",
@@ -28,7 +28,7 @@
     "static/js/12.ae286b9d.chunk.js": "/winOS/build/static/js/12.ae286b9d.chunk.js",
     "static/js/12.ae286b9d.chunk.js.map": "/winOS/build/static/js/12.ae286b9d.chunk.js.map",
     "index.html": "/winOS/build/index.html",
-    "precache-manifest.73095a13bb1db7a651129cb9ea0f1759.js": "/winOS/build/precache-manifest.73095a13bb1db7a651129cb9ea0f1759.js",
+    "precache-manifest.5df8d383a7a216c8946ec98b330c4192.js": "/winOS/build/precache-manifest.5df8d383a7a216c8946ec98b330c4192.js",
     "service-worker.js": "/winOS/build/service-worker.js",
     "static/css/main.950adebf.chunk.css.map": "/winOS/build/static/css/main.950adebf.chunk.css.map",
     "static/js/0.6b7cb01a.chunk.js.LICENSE.txt": "/winOS/build/static/js/0.6b7cb01a.chunk.js.LICENSE.txt",
@@ -37,14 +37,13 @@
     "static/js/6.aaad1b06.chunk.js.LICENSE.txt": "/winOS/build/static/js/6.aaad1b06.chunk.js.LICENSE.txt",
     "static/js/9.c4443709.chunk.js.LICENSE.txt": "/winOS/build/static/js/9.c4443709.chunk.js.LICENSE.txt",
     "static/media/bliss.jpg": "/winOS/build/static/media/bliss.7a7bbcc4.jpg",
-    "static/media/profile.png": "/winOS/build/static/media/profile.5eb0d40d.png",
     "static/media/startpanel-moreprograms-hover.png": "/winOS/build/static/media/startpanel-moreprograms-hover.6ea05914.png",
     "static/media/tray-expand.png": "/winOS/build/static/media/tray-expand.cdbf7a90.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2b2b449.js",
+    "static/js/runtime-main.6a78c5f9.js",
     "static/js/6.aaad1b06.chunk.js",
     "static/css/main.950adebf.chunk.css",
-    "static/js/main.fa271c51.chunk.js"
+    "static/js/main.96a9f808.chunk.js"
   ]
 }

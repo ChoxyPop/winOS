@@ -21,7 +21,7 @@ export const BootLoader = styled(props => (
     <ProgressBar width={126} />
     <div style={{ flexGrow: 1 }} />
     <footer>
-      <span>Copyright © Microsoft Corporation</span>
+      <span>Copyright © DCR Corporation</span>
       <MicrosoftLogo />
     </footer>
   </div>

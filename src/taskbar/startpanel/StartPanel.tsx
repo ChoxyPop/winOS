@@ -95,16 +95,16 @@ export const StartPanel: React.FC<StartPanelProps> = ({ onClose, ...rest }) => {
     <StyledStartPanel {...rest}>
       <Header>
         <Avatar src={profilePicture} />
-        Casper Lindschouw
+        Frank
       </Header>
       <Body>
         <ProgramList>
           <Item
             title="Internet"
-            subtitle="Internet Explorer"
+            subtitle="Internet Explorator"
             icon={internetExplorerIcon}
           />
-          <Item title="E-mail" subtitle="Outlook Express" icon={outlookIcon} />
+          <Item title="E-mail" subtitle="Otluk Express" icon={outlookIcon} />
           <hr />
           {programs}
           <Spacer />
@@ -119,7 +119,7 @@ export const StartPanel: React.FC<StartPanelProps> = ({ onClose, ...rest }) => {
             onClick={() =>
               run(
                 ExplorerApp,
-                '/C:/Documents and Settings/Casper Lindschouw/My Documents'
+                '/C:/Documents and Settings/Frank/My Documents'
               )
             }
           />
@@ -130,7 +130,7 @@ export const StartPanel: React.FC<StartPanelProps> = ({ onClose, ...rest }) => {
             onClick={() =>
               run(
                 ExplorerApp,
-                '/C:/Documents and Settings/Casper Lindschouw/Recent'
+                '/C:/Documents and Settings/Frank/Recent'
               )
             }
           />
@@ -141,7 +141,7 @@ export const StartPanel: React.FC<StartPanelProps> = ({ onClose, ...rest }) => {
             onClick={() =>
               run(
                 ExplorerApp,
-                '/C:/Documents and Settings/Casper Lindschouw/My Documents/My Pictures'
+                '/C:/Documents and Settings/Frank/My Documents/My Pictures'
               )
             }
           />
@@ -152,7 +152,7 @@ export const StartPanel: React.FC<StartPanelProps> = ({ onClose, ...rest }) => {
             onClick={() =>
               run(
                 ExplorerApp,
-                '/C:/Documents and Settings/Casper Lindschouw/My Documents/My Music'
+                '/C:/Documents and Settings/Frank/My Documents/My Music'
               )
             }
           />

@@ -25,7 +25,7 @@ const StyledDesktopEnvironment = styled(UsableArea).attrs({
 export const DesktopEnvironment: FC = () => (
   <StyledDesktopEnvironment>
     <UsableArea>
-      <Desktop path="/C:/Documents and Settings/Casper Lindschouw/Desktop" />
+      <Desktop path="/C:/Documents and Settings/Frank/Desktop" />
       <WindowRenderer />
     </UsableArea>
     <TaskBar height={30} />

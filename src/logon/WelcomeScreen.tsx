@@ -6,7 +6,7 @@ import { Title } from './Title';
 export const WelcomeScreen = () => (
   <Background>
     <Content>
-      <Title>welcome</Title>
+      <Title>bienvenido</Title>
     </Content>
   </Background>
 );
