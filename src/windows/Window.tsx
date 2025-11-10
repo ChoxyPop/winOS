@@ -26,25 +26,25 @@ const Frame = styled(({ className, children }) => (
   margin-top: -3px;
   overflow: hidden;
 
-  background: #0855dd;
+  background: #3b465b;
   /* prettier-ignore */
   box-shadow: 
-    inset 0 -1px 0 0 #00138c,
-    inset 0 -2px 0 0 #001ea099,
-    inset 0 -3px 0 0 #074fea55,
-    inset 0 0 0 1px #0734da,
-    inset 0 0 0 2px #166aee;
+    inset 0 -1px 0 0 #1b1f2f,
+    inset 0 -2px 0 0 #22263399,
+    inset 0 -3px 0 0 #4a556655,
+    inset 0 0 0 1px #2c3244,
+    inset 0 0 0 2px #5a6475;
 
   .inactive & {
-    background: #758cdc;
+    background: #707887;
     /* prettier-ignore */
     box-shadow: 
-        inset 0 -1px 0 0 #4f53bc,
-        inset 0 -2px 0 0 #6d74cd99,
-        inset 0 -3px 0 0 #7587dd55,
-        inset 0 0 0 1px #5b68cd,
-        inset 0 0 0 2px #7480dc;
-  }
+        inset 0 -1px 0 0 #4a4f5f,
+        inset 0 -2px 0 0 #5c637499,
+        inset 0 -3px 0 0 #6d738255,
+        inset 0 0 0 1px #5e6472,
+        inset 0 0 0 2px #707887;
+}
 `;
 
 const FrameInner = styled.div`
@@ -155,30 +155,30 @@ const StyledButton = styled.button.attrs({
 
   /* prettier-ignore */
   background:
-    radial-gradient(circle at 75% 40%, #0e50edAA 10%, transparent 50%) no-repeat, 
-    radial-gradient(circle at 40% 30%, #0e50ed44 10%, transparent 30%) no-repeat,
-    radial-gradient(circle at -10% 95%, #0e50ed99 0%, transparent 30%) no-repeat, 
-    radial-gradient(circle at 15% 15%, #ffffff90 0%, #0e50ed 85%) no-repeat;
-  background-color: #0e50ed;
+    radial-gradient(circle at 75% 40%, #3b465bAA 10%, transparent 50%) no-repeat, 
+    radial-gradient(circle at 40% 30%, #3b465b44 10%, transparent 30%) no-repeat,
+    radial-gradient(circle at -10% 95%, #3b465b99 0%, transparent 30%) no-repeat, 
+    radial-gradient(circle at 15% 15%, #ffffff22 0%, #3b465b 85%) no-repeat;
+  background-color: #3b465b;
 
   &:not(:disabled) {
     &:hover {
       /* prettier-ignore */
       background:
-        radial-gradient(circle at 65% 78%, #33b1ff 10%, transparent 50%) no-repeat, 
-        radial-gradient(circle at 75% 40%, #0e50ed88 10%, transparent 50%) no-repeat, 
-        radial-gradient(circle at 40% 30%, #0e50ed22 10%, transparent 30%) no-repeat,
-        radial-gradient(circle at -10% 95%, #0e50ed99 0%, transparent 30%) no-repeat, 
-        radial-gradient(circle at 15% 15%, #ffffff90 0%, #0e50ed 85%) no-repeat;
+        radial-gradient(circle at 65% 78%, #6a7484 10%, transparent 50%) no-repeat, 
+        radial-gradient(circle at 75% 40%, #3b465b88 10%, transparent 50%) no-repeat, 
+        radial-gradient(circle at 40% 30%, #3b465b22 10%, transparent 30%) no-repeat,
+        radial-gradient(circle at -10% 95%, #3b465b99 0%, transparent 30%) no-repeat, 
+        radial-gradient(circle at 15% 15%, #ffffff22 0%, #3b465b 85%) no-repeat;
     }
 
     &:active,
     &.active {
       background: radial-gradient(
           circle at 70% 70%,
-          #0062c6 0%,
-          #0048ad 50%,
-          #002d68 100%
+          #555e6f 0%,
+          #3d4555 50%,
+          #262b33 100%
         )
         no-repeat;
       box-shadow: inset 5px 5px 2px -5px #000000aa;
@@ -190,7 +190,8 @@ const StyledButton = styled.button.attrs({
         opacity: 0.7;
       }
     }
-  } 
+  }
+
 
   &.danger {
     /* prettier-ignore */
