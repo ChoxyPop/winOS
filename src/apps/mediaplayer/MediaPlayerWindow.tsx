@@ -36,7 +36,8 @@ export const MediaPlayerWindow: FC<MediaPlayerWindowProps> = ({ path }) => {
           src={src}
           controls
           autoPlay
-          style={{ flexGrow: 1, width: '100%', background: 'black' }}
+          style={{flexGrow: 1,width: 'auto',height: '100%',background: 'black',display: 'block',margin: '0 auto',objectFit: 'contain'}}
+
         />
       ) : (
         <div style={{ padding: 10 }}>Could not load video file.</div>
