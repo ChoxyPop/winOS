@@ -4,7 +4,7 @@ export const Background = styled.div`
   width: 100%;
   height: 100%;
 
-  background: #1231a1;
+  background: #303846;
 
   padding-top: 78px;
   padding-bottom: 94px;

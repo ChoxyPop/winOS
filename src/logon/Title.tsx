@@ -5,7 +5,7 @@ export const Title = styled.span`
   font-weight: bold;
   font-style: italic;
   font-size: 50px;
-  text-shadow: 2px 3px #3151b5;
+  text-shadow: 2px 3px #4a4a4a;
 
   padding-left: 124px;
 `;
