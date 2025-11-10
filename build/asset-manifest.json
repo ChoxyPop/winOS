@@ -9,8 +9,8 @@
     "main.css": "/winOS/build/static/css/main.950adebf.chunk.css",
     "main.js": "/winOS/build/static/js/main.07f84e8e.chunk.js",
     "main.js.map": "/winOS/build/static/js/main.07f84e8e.chunk.js.map",
-    "runtime-main.js": "/winOS/build/static/js/runtime-main.c62c18c1.js",
-    "runtime-main.js.map": "/winOS/build/static/js/runtime-main.c62c18c1.js.map",
+    "runtime-main.js": "/winOS/build/static/js/runtime-main.a57260e4.js",
+    "runtime-main.js.map": "/winOS/build/static/js/runtime-main.a57260e4.js.map",
     "static/js/5.27a3c279.chunk.js": "/winOS/build/static/js/5.27a3c279.chunk.js",
     "static/js/5.27a3c279.chunk.js.map": "/winOS/build/static/js/5.27a3c279.chunk.js.map",
     "static/js/6.6c76814d.chunk.js": "/winOS/build/static/js/6.6c76814d.chunk.js",
@@ -27,10 +27,10 @@
     "static/js/11.5f32a413.chunk.js.map": "/winOS/build/static/js/11.5f32a413.chunk.js.map",
     "static/js/12.ae286b9d.chunk.js": "/winOS/build/static/js/12.ae286b9d.chunk.js",
     "static/js/12.ae286b9d.chunk.js.map": "/winOS/build/static/js/12.ae286b9d.chunk.js.map",
-    "static/js/13.5a655e56.chunk.js": "/winOS/build/static/js/13.5a655e56.chunk.js",
-    "static/js/13.5a655e56.chunk.js.map": "/winOS/build/static/js/13.5a655e56.chunk.js.map",
+    "static/js/13.a15d3941.chunk.js": "/winOS/build/static/js/13.a15d3941.chunk.js",
+    "static/js/13.a15d3941.chunk.js.map": "/winOS/build/static/js/13.a15d3941.chunk.js.map",
     "index.html": "/winOS/build/index.html",
-    "precache-manifest.2f78c9040f6c24b9fba1958420e76200.js": "/winOS/build/precache-manifest.2f78c9040f6c24b9fba1958420e76200.js",
+    "precache-manifest.20be98391e48a5cc141534de8cffeb9d.js": "/winOS/build/precache-manifest.20be98391e48a5cc141534de8cffeb9d.js",
     "service-worker.js": "/winOS/build/service-worker.js",
     "static/css/main.950adebf.chunk.css.map": "/winOS/build/static/css/main.950adebf.chunk.css.map",
     "static/js/0.056d3c60.chunk.js.LICENSE.txt": "/winOS/build/static/js/0.056d3c60.chunk.js.LICENSE.txt",
@@ -43,7 +43,7 @@
     "static/media/tray-expand.png": "/winOS/build/static/media/tray-expand.cdbf7a90.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c62c18c1.js",
+    "static/js/runtime-main.a57260e4.js",
     "static/js/6.6c76814d.chunk.js",
     "static/css/main.950adebf.chunk.css",
     "static/js/main.07f84e8e.chunk.js"
