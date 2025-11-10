@@ -29,51 +29,51 @@ const StyledWindowListItem = styled(({ in: inProp, onExited, ...rest }) => (
   white-space: nowrap;
   overflow: hidden;
 
-  border: 1px solid transparent;
-  border-color: #3067dd #2652bc #3067dd #2652bc;
-  border-radius: 2px;
-  background-color: #3980f4;
+border: 1px solid transparent;
+border-color: #4a4f5c #3a3f4b #4a4f5c #3a3f4b;
+border-radius: 2px;
+background-color: #565c6b;
+
+/* prettier-ignore */
+box-shadow:
+  inset 10px 0px 2px -9px #ffffff33,
+  inset 0px 10px 5px -9px #ffffff33,
+  inset -1px -1px 2px #00000033;
+
+span {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+&:hover {
+  border-color: #3b4250 #323844 #323844 #3b4250;
+  background-color: #6a7384;
 
   /* prettier-ignore */
   box-shadow:
-    inset 10px 0px 2px -9px #ffffff55,
-    inset 0px 10px 5px -9px #ffffff55,
-    inset -1px -1px 2px #00000033;
+      inset 10px 0px 2px -9px #ffffff55,
+      inset 0px 10px 5px -8px #ffffff55,
+      inset -1px -2px 2px #8a91a0;
+}
 
-  span {
-    text-overflow: ellipsis;
-    overflow: hidden;
-  }
+&:active,
+&.active {
+  border-color: #4c5260 #2e3542 #2e3542 #1d222e;
+  background-color: #3a3f4e;
+
+  /* prettier-ignore */
+  box-shadow:
+      inset 1px 1px 2px #272b35,
+      inset -1px -1px 2px #ffffff19;
 
   &:hover {
-    border-color: #214ba9 #1e3f89 #1e3f89 #214ba9;
-    background-color: #55a0ff;
+    border-color: #4c5260 #2e3542 #2e3542 #1d222e;
+    background-color: #4b5162;
 
     /* prettier-ignore */
     box-shadow:
-        inset 10px 0px 2px -9px #ffffff88,
-        inset 0px 10px 5px -8px #ffffff88,
-        inset -1px -2px 2px #2D86FF;
-  }
-
-  &:active,
-  &.active {
-    border-color: #2266d5 #0c3cae #0c3cae #082970;
-    background-color: #1750b9;
-
-    /* prettier-ignore */
-    box-shadow:
-        inset 1px 1px 2px #123D94,
-        inset -1px -1px 2px #ffffff19;
-
-    &:hover {
-      border-color: #2266d5 #0e3c9f #0c3cae #082970;
-      background-color: #2e6ceb;
-
-      /* prettier-ignore */
-      box-shadow:
-        inset 1px 1px 2px #1B51BE,
-        inset -1px -1px 2px #ffffff19;
+      inset 1px 1px 2px #343845,
+      inset -1px -1px 2px #ffffff19;
     }
   }
 
